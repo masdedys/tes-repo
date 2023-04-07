@@ -1,6 +1,6 @@
 mas_dedys
 -Membuat mini project untuk dipakai banyak orang,
--Hosting website
--Membereskan file-file pribadi
--Membuat aplikasi qa
--Membuat aplikasi penanganan limbah
+-Membereskan file-file pribadi,
+-Membuat aplikasi qa,
+-Membuat aplikasi penanganan limbah,
+-Membuat vlog.
